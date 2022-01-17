@@ -1,0 +1,24 @@
+{
+  "name": "twinkletoes-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CGlinka95/TwinkleToes-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CGlinka95/TwinkleToes-webapp/issues"
+  },
+  "homepage": "https://github.com/CGlinka95/TwinkleToes-webapp#readme",
+  "dependencies": {
+    "firebase": "^9.6.3",
+    "parcel": "^2.2.1"
+  }
+}
