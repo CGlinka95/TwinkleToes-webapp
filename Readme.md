@@ -7,5 +7,5 @@
 ```bash
     npx parcel src/index.html
 ```
-### Stop the Parcel Dev Server 
-- Use the quick key combination from the terminal CTRL + C to stop the server
+- Stop the Parcel Dev Server 
+-[] Use the quick key combination from the terminal CTRL + C to stop the server

@@ -521,6 +521,19 @@ function hmrAcceptRun(bundle, id) {
 },{}],"ebWYT":[function(require,module,exports) {
 var _firebaseConfigJs = require("./libs/firebase/firebaseConfig.js");
 console.log(_firebaseConfigJs.app, _firebaseConfigJs.db);
+// Script the form submit
+// Firebase RTD
+//  1. import db from config file
+//  2. import ref, push   firebase/database
+document.forms['writeToRTD'].addEventListener("submit", onWriteData);
+function onWriteData(e) {
+    // action where the name value pairs are processed 
+    //  method of the form GET POST
+    // append the name value pairs of the form elements
+    e.preventDefault();
+    const data = e.target.elements['writeUserData'].value.trim();
+    console.log(data);
+}
 
 },{"./libs/firebase/firebaseConfig.js":"db0eO"}],"db0eO":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");

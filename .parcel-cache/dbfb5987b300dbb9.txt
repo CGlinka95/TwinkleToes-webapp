@@ -106,7 +106,7 @@
 125C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\source-map-support\node_modules132869285812779955 1
 125C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\postcss-normalize-url\README.md132869285847473073 0
 135C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\url\node_modules\punycode\LICENSE-MIT.txt132869285847842087 0
-85C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist132869305676474400 1
+85C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist132869313580083207 1
 137C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\terser\node_modules\source-map\CHANGELOG.md132869285842174517 0
 126C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\node-forge\dist\forge.min.js.map132869285879395619 0
 151C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\@firebase\auth\dist\cordova\src\model\popup_redirect.d.ts132869285938893445 0
@@ -176,7 +176,7 @@
 107C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\parent-module132869285845732635 1
 114C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\msgpackr\SECURITY.md132869285866851338 0
 145C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\protobufjs\cli\node_modules\optionator\package.json132869285893281954 0
-95C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\src\index.html132869303415127981 0
+95C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\src\index.html132869313579055964 0
 139C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\protobufjs\cli\node_modules\glob\changelog.md132869285897660244 0
 103C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\lilconfig132869285843889926 1
 125C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\caniuse-lite\data\regions\HN.js132869285898378323 0
@@ -225,7 +225,7 @@
 102C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\src\scss\_reboot.scss132869233593005069 0
 141C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\protobufjs\cli\node_modules\esutils\lib\code.js132869285880715201 0
 115C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\hmac-drbg\.travis.yml132869285847118930 0
-96C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\src\js\index.js132869305649408818 0
+96C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\src\js\index.js132869314310503245 0
 117C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\protobufjs\src\types.js132869285891167603 0
 134C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\@firebase\analytics\dist\src\logger.d.ts132869285876672731 0
 144C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\public-encrypt\test\test_rsa_privkey_encrypted.pem132869285869484041 0
@@ -11040,7 +11040,7 @@
 146C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\firebase\compat\database\dist\performance\index.d.ts132869285921602550 0
 153C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\@firebase\auth\dist\src\core\user\id_token_result.test.d.ts132869285920177320 0
 138C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\firebase\compat\database\dist\firestore\lite132869285921404038 1
-107C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist\index.739bf03c.js.map132869305676434517 0
+107C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist\index.739bf03c.js.map132869312281995094 0
 176C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\@firebase\auth\dist\esm2017\test\integration\webdriver\compat\firebaseui.test.d.ts132869285914694828 0
 149C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\firebase\compat\database\dist\firestore\lite\index.d.ts132869285921414012 0
 121C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\es-abstract\2020\WeekDay.js132869285921264413 0
@@ -12689,7 +12689,7 @@
 118C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\es-abstract\2015\Type.js132869285920167345 0
 148C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\es-abstract\2015\ValidateAndApplyPropertyDescriptor.js132869285920875450 0
 121C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\es-abstract\2015\WeekDay.js132869285921134762 0
-103C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist\index.739bf03c.js132869305676314828 0
+103C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist\index.739bf03c.js132869312281536324 0
 118C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\@babel\generator\LICENSE132869285840135338 0
 126C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\es-abstract\2015\YearFromTime.js132869285921374123 0
 157C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\@firebase\firestore-compat\dist\node-esm\src\api\timestamp.d.ts132869285880575575 0
@@ -20660,4 +20660,4 @@
 104C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\.bin\which132869285949621188 0
 108C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\.bin\which.cmd132869285949621188 0
 108C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\node_modules\.bin\which.ps1132869285949621188 0
-96C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist\index.html132869304410762197 0
+96C:\Users\Chris Glinka\Desktop\School\Winter2022\front-end-dev\TwinkleToes-webapp\dist\index.html132869313580073237 0
