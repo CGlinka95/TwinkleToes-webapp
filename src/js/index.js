@@ -35,13 +35,15 @@ function onWriteData(e){
 //  Read Data
 //  import {ref, get}
 import {ref, get} from 'firebase/database'
-import {db} from './libs/firebase/firebaseConfig'
+import {renderUser} from './templates/user'
 
 async function pageInit(){
     console.log(1)
-    const userRef = ref(db, 'userEmails:/passwords:')
-    const dataSnapShot = await get(userRef)
-    console.log(dataSnapShot.val())
+    const userRef = ref(db, 'inventory/')
+    console.log(userRef)
+    const userSnapShot = await get(userRef)
+    console.log(userSnapShot.val())
+    console.log(renderUser())
 }
 
 pageInit()

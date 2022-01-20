@@ -412,3 +412,19 @@ body {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
+.user {
+  border: 1px solid black;
+  width: max-content;
+  text-align: center;
+}
+
+.user h2 {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.user img {
+  border: 5px solid grey;
+  box-shadow: 0 0 3px 0 rgb(206, 206, 206);
+}
