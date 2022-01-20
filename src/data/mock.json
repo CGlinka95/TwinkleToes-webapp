@@ -1,7 +1,9 @@
 {
-    "-Mts0RF74VC7S7qjpNl3":{"id":"7e653f5d-88d7-4035-85be-9e9d37c53ebf","fullName":"Gilemette Brignell","avatar":"https://robohash.org/omnisatquequis.png?size=500x500&set=set1"},
-    "-Mts0RF8NhMDOx_vLNZ8":{"id":"c289365a-6a7e-4e19-8f1a-57d7161bf202","fullName":"Andreana Oldacres","avatar":"https://robohash.org/etremdicta.png?size=500x500&set=set1"},
-    "-Mts0RF943uREs-Wv1GO":{"id":"55e5dab9-7112-46e8-b910-afcc4d752d88","fullName":"Damara Fenty","avatar":"https://robohash.org/assumendaautemut.png?size=500x500&set=set1"},
-    "-Mts0RFAYSBsue14nQD9":{"id":"9cc664ea-1a14-47e2-b2a4-1609e0582263","fullName":"Jarrett Sirmond","avatar":"https://robohash.org/quamquibusdamveniam.png?size=500x500&set=set1"},
-    "-Mts0RFB4JEYlqKH-n-7":{"id":"50f43c72-10b5-4baf-ba39-6cadbd8b627c","fullName":"Mel Figin","avatar":"https://robohash.org/velitofficiaut.png?size=500x500&set=set1"}
+    "users": {
+        "-Mts0RF74VC7S7qjpNl3":{"id":"7e653f5d-88d7-4035-85be-9e9d37c53ebf","fullName":"Gilemette Brignell","avatar":"https://robohash.org/omnisatquequis.png?size=500x500&set=set1"},
+        "-Mts0RF8NhMDOx_vLNZ8":{"id":"c289365a-6a7e-4e19-8f1a-57d7161bf202","fullName":"Andreana Oldacres","avatar":"https://robohash.org/etremdicta.png?size=500x500&set=set1"},
+        "-Mts0RF943uREs-Wv1GO":{"id":"55e5dab9-7112-46e8-b910-afcc4d752d88","fullName":"Damara Fenty","avatar":"https://robohash.org/assumendaautemut.png?size=500x500&set=set1"},
+        "-Mts0RFAYSBsue14nQD9":{"id":"9cc664ea-1a14-47e2-b2a4-1609e0582263","fullName":"Jarrett Sirmond","avatar":"https://robohash.org/quamquibusdamveniam.png?size=500x500&set=set1"},
+        "-Mts0RFB4JEYlqKH-n-7":{"id":"50f43c72-10b5-4baf-ba39-6cadbd8b627c","fullName":"Mel Figin","avatar":"https://robohash.org/velitofficiaut.png?size=500x500&set=set1"}
+        } 
 }
